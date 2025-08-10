@@ -1,7 +1,7 @@
 # Basic Information 
 title: Zhe Fu
-position: Technical Expert / Postdoctoral Researcher
-affiliation: Alibaba
+position: Research Scientist / Technical Research Expert
+affiliation: Alibaba Cloud
 email: zhefu0 (at) outlook.com
 
 # Search Engine Optimization (SEO)
@@ -41,4 +41,3 @@ google_analytics: UA-45611618-1
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
-
