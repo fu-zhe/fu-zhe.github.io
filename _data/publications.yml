@@ -1,5 +1,12 @@
 main:
 
+  - title: "Rethinking Cost-Efficient VM Scheduling on Public Edge Platforms: A Service Provider's Perspective"
+    authors: Yanan Li, Xiao Ma, <strong>Zhe Fu</strong>, Ao Zhou, Mengwei Xu, Shangguang Wang
+    conference_short: TMC
+    conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10738199
+    image: ./assets/img/
+
   - title: "EncChain: Enhancing Large Language Model Applications with Advanced Privacy Preservation Techniques"
     authors: <strong>Zhe Fu</strong>, Mo Sha, Yiran Li, Huorong Li, Yubing Ma, Sheng Wang, Feifei Li
     conference_short: VLDB
@@ -13,12 +20,20 @@ main:
     conference_short: ATC
     conference: USENIX Annual Technical Conference <strong>(ATC)</strong>, 2024.
     pdf: https://www.usenix.org/system/files/atc24-zhang-li-prototyping.pdf
+    code: https://github.com/SoC-Cluster/SoC-Cluster-artifacts
     image: ./assets/img/atc.png
+
+  - title: "ELASTIC: edge workload forecasting based on collaborative cloud-edge deep learning"
+    authors: Yanan Li, Haitao Yuan, <strong>Zhe Fu</strong>, Xiao Ma, Mengwei Xu, Shangguang Wang
+    conference_short: WWW
+    conference: International World Wide Web Conference <strong>(WWW)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/10.1145/3543507.3583436
+    image: ./assets/img/www.png
 
   - title: "From cloud to edge: a first look at public edge platforms"
     authors: Mengwei Xu, <strong>Zhe Fu</strong>, Xiao Ma, Li Zhang, Yanan Li, Feng Qian, Shangguang Wang, Ke Li, Jingyu Yang, Xuanzhe Liu
     conference_short: IMC
-    conference: Internet Measurement Conference <strong>(IMC)</strong>, 2021.
+    conference: ACM Internet Measurement Conference <strong>(IMC)</strong>, 2021.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/xumengwei/EdgeWorkloadsTraces
     image: ./assets/img/imc.png
