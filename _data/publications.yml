@@ -8,6 +8,13 @@ main:
     image: ./assets/img/encchain.png
     notes: Demonstration
 
+  - title: "More is Different: Prototyping and Analyzing a New Form of Edge Server with Massive Mobile SoCs"
+    authors: Li Zhang, <strong>Zhe Fu</strong>, Boqing Shi, Xiang Li, Rujin Lai, Chenyang Yang, Ao Zhou, Xiao Ma, Shangguang Wang, Mengwei Xu
+    conference_short: ATC
+    conference: USENIX Annual Technical Conference <strong>(ATC)</strong>, 2024.
+    pdf: https://www.usenix.org/system/files/atc24-zhang-li-prototyping.pdf
+    image: ./assets/img/atc.png
+
   - title: "From cloud to edge: a first look at public edge platforms"
     authors: Mengwei Xu, <strong>Zhe Fu</strong>, Xiao Ma, Li Zhang, Yanan Li, Feng Qian, Shangguang Wang, Ke Li, Jingyu Yang, Xuanzhe Liu
     conference_short: IMC
