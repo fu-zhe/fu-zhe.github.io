@@ -7,7 +7,7 @@ email: zhefu0 (at) outlook.com
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Zhe Fu
-description: Zhe Fu's personal page.
+description: Zhe Fu's homepage.
 canonical: https://fu-zhe.github.io/
 
 # Links 
@@ -15,6 +15,7 @@ canonical: https://fu-zhe.github.io/
 google_scholar: https://scholar.google.com/citations?user=Y0DFdMwAAAAJ/
 # github_link: https://github.com/
 linkedin: https://www.linkedin.com/in/zhefu/
+cv_link: assets/files/curriculum_vitae.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

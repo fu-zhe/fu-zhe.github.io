@@ -11,3 +11,5 @@ I am currently leading the development of **AI-powered operational assistants** 
 I received my Ph.D. in **Automation** from **Tsinghua University** in 2018, and my B.S. in **Automation** from the same institution in 2013. During my doctoral studies, I was a **Visiting Student at the University of Southern California (USC)** from 2016 to 2017, where I collaborated on research in machine learning and intelligent systems.
 
 My work is driven by a simple belief: *the future of cloud computing lies in systems that understand themselves*. I am committed to advancing this vision — one line of code, one model, and one real-world deployment at a time.
+
+{% include_relative _includes/publications.md %}
