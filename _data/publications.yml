@@ -5,7 +5,7 @@ main:
     conference_short: TMC
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10738199
-    image: ./assets/img/
+    image: ./assets/img/tmc.png
 
   - title: "EncChain: Enhancing Large Language Model Applications with Advanced Privacy Preservation Techniques"
     authors: <strong>Zhe Fu</strong>, Mo Sha, Yiran Li, Huorong Li, Yubing Ma, Sheng Wang, Feifei Li
