@@ -34,6 +34,6 @@ main:
     authors: Mengwei Xu, <strong>Zhe Fu</strong>, Xiao Ma, Li Zhang, Yanan Li, Feng Qian, Shangguang Wang, Ke Li, Jingyu Yang, Xuanzhe Liu
     conference_short: IMC
     conference: ACM Internet Measurement Conference <strong>(IMC)</strong>, 2021.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://arxiv.org/pdf/2109.03395
     code: https://github.com/xumengwei/EdgeWorkloadsTraces
     image: ./assets/img/imc.png
